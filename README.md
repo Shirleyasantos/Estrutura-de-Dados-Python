@@ -1,5 +1,9 @@
-# Estrutura-de-Dados-Python
-Repositório para estudos de Estrutura de Dados
-Este repositório contém meus estudos práticos sobre algoritmos e estruturas de dados desenvolvidos no Google Colab.
-🛠️ Conteúdo:
-Bubble Sort: Implementação manual de ordenação de listas.
+# 📚 Estudos de Estrutura de Dados e Algoritmos
+
+Este repositório contém a implementação prática de conceitos fundamentais de computação.
+
+## 🚀 O que tem aqui?
+
+1. **Ordenação (Bubble Sort):** Entendendo como algoritmos de ordenação $O(N^2)$ funcionam.
+2. **Pilhas (Stack):** Implementação do conceito LIFO (Last-In, First-Out) simulando um histórico de navegador.
+3. **Busca e Complexidade:** Comparativo real de performance entre Busca Sequencial $O(N)$ e Busca Binária $O(\log N)$.
