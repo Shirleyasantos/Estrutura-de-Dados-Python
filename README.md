@@ -22,5 +22,8 @@ Este repositório é o meu laboratório de estudos sobre algoritmos e eficiênci
 - **O que aprendi:** A diferença prática entre um algoritmo linear $O(n)$ e um logarítmico $O(\log n)$. No teste realizado, a busca binária encontrou o item em uma lista de 1 milhão de elementos quase instantaneamente.
 - [Acessar código](./03_Busca_Binaria_vs_Sequencial.ipynb)
 
----
+### 4. Listas Ligadas (Linked Lists)
+- **O que aprendi:** Como criar uma estrutura de dados dinâmica onde cada elemento (Nó) aponta para o próximo. Diferente dos arrays, as listas ligadas não precisam de espaço contíguo na memória.
+- [Acessar código](./04_Lista_Ligada_Simples.ipynb)
+  
 💡 *Estudo em constante atualização conforme avanço na disciplina de Estrutura de Dados.*
